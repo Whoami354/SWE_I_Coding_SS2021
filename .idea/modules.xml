@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Advent_of_Code_2015/Advent_of_Code_2015.iml" filepath="$PROJECT_DIR$/Advent_of_Code_2015/Advent_of_Code_2015.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Advent_of_Code_2015/Day_01.iml" filepath="$PROJECT_DIR$/Advent_of_Code_2015/Day_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Klausuraufgabe_SS2021/Klausuraufgabe_SS2021.iml" filepath="$PROJECT_DIR$/Klausuraufgabe_SS2021/Klausuraufgabe_SS2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rekursion/Rekursion.iml" filepath="$PROJECT_DIR$/Rekursion/Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Software_Engineering1Coding.iml" filepath="$PROJECT_DIR$/Software_Engineering1Coding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt01/Übungsblatt01.iml" filepath="$PROJECT_DIR$/Übungsblatt01/Übungsblatt01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt02/Übungsblatt02.iml" filepath="$PROJECT_DIR$/Übungsblatt02/Übungsblatt02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt03/Übungsblatt03.iml" filepath="$PROJECT_DIR$/Übungsblatt03/Übungsblatt03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt04/Übungsblatt04.iml" filepath="$PROJECT_DIR$/Übungsblatt04/Übungsblatt04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt05/Übungsblatt05.iml" filepath="$PROJECT_DIR$/Übungsblatt05/Übungsblatt05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt07/Übungsblatt07.iml" filepath="$PROJECT_DIR$/Übungsblatt07/Übungsblatt07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt08/Übungsblatt08.iml" filepath="$PROJECT_DIR$/Übungsblatt08/Übungsblatt08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt09/Übungsblatt09.iml" filepath="$PROJECT_DIR$/Übungsblatt09/Übungsblatt09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt10/Übungsblatt10.iml" filepath="$PROJECT_DIR$/Übungsblatt10/Übungsblatt10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt11/Übungsblatt11.iml" filepath="$PROJECT_DIR$/Übungsblatt11/Übungsblatt11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt12/Übungsblatt12.iml" filepath="$PROJECT_DIR$/Übungsblatt12/Übungsblatt12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Übungsblatt02/Übungsblatt2.iml" filepath="$PROJECT_DIR$/Übungsblatt02/Übungsblatt2.iml" />
+    </modules>
+  </component>
+</project>
