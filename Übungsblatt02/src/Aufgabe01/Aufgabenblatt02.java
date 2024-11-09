@@ -28,8 +28,8 @@ public class Aufgabenblatt02 {
                 }
             }
         }
-        double second = array[1] / (Math.pow((double) 10, (double) counter));
-        double total = (double) (array[0] + second) * Math.pow((double) 10, (double) array[2]);
+        double second = array[1] / (Math.pow(10, counter));
+        double total = (array[0] + second) * Math.pow( 10, array[2]);
         return total;
 
     }

@@ -13,6 +13,7 @@ public class HappyOrSad {
         }
         return check == 1;
     }
+
     public static int sum(int check){
         int sum = 0;
         while (check != 0){

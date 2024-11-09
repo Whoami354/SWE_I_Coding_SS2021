@@ -4,11 +4,13 @@ import java.util.Arrays;
 
 public class Shuffle {
     public static void main(String[] args) {
-        int[] shuffle = {1, 41, 37, 20, 15, 12, 2, 9, 10, 40};
+        int[] shuffle = {1, 41, 37, 20, 15, 12, 2, 9, 10, 40, 40};
         int res[];
         Shuffle shuffle1 = new Shuffle();
         System.out.println(Arrays.toString(shuffle));
         res = shuffle1.removeDouble(shuffle);
+        System.out.println(Arrays.toString(res));
+
     }
 
     public int[] removeDouble(int aArray[]) {
